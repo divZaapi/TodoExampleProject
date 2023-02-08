@@ -3,3 +3,5 @@
 # This is a feature we have added in the project
 
 # fixed a bug
+
+# perfoermance updatyed for app
